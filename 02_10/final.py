@@ -1,7 +1,7 @@
 import gspread
 from google.oauth2.service_account import Credentials
 
-# UPdate to point to your service account file
+# Update to point to your service account file
 SERVICE_ACCOUNT_FILE = "../advancedscripting-da4417eb3e72.json"
 
 SCOPES = [
